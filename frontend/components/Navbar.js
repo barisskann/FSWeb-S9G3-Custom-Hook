@@ -1,7 +1,9 @@
-import React from 'react';
+import React from "react";
+import Hook from "./Hook";
 
 const Navbar = (props) => {
-  const toggleMode = e => {
+  const toggleMode = (e) => {
+    Hook(!props.geceModu);
     e.preventDefault();
     props.setGeceModu(!props.geceModu);
   };
@@ -12,7 +14,7 @@ const Navbar = (props) => {
       <div className="dark-mode__toggle">
         <div
           onClick={toggleMode}
-          className={props.geceModu ? 'toggle toggled' : 'toggle'}
+          className={props.geceModu ? "toggle toggled" : "toggle"}
         />
       </div>
     </nav>

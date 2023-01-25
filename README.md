@@ -10,7 +10,7 @@ Bu proje, bu modülde öğrenilen kavram ve teknikleri uygulamanıza ve bunları
 
 ## Giriş
 
-Bu projede kripto para izleme uygulamasını alacak ve 2 custom hook oluşturup, birlikte çalışmalarını sağlayacaksınız, aynı zamanda kullanıcılar gece modunu açıp (dark mode) uygulamayı kullanabilecekler, uygulama kapanıp açılsa bile gece modu daha önce aktif edildiyse uygulama gece modu açık şekilde başlayacak. 
+Bu projede kripto para izleme uygulamasını alacak venpm 2 custom hook oluşturup, birlikte çalışmalarını sağlayacaksınız, aynı zamanda kullanıcılar gece modunu açıp (dark mode) uygulamayı kullanabilecekler, uygulama kapanıp açılsa bile gece modu daha önce aktif edildiyse uygulama gece modu açık şekilde başlayacak. 
 
 ***Görevlerinizi birer birer tamamladığınızdan ve ilerlemeden önce her bir görevi test ettiğinizden emin olun..***
 
